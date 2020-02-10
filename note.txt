@@ -1,3 +1,6 @@
+An example using splunk for data visulization in real time
+
+
 Launch Splunk:
 https://docs.splunk.com/Documentation/Splunk/8.0.1/SearchTutorial/StartSplunk
 
